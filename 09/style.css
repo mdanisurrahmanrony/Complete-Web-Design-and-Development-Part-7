@@ -1,0 +1,21 @@
+*{margin:0;padding:0}
+body{
+	font-family:sans-sarif, Arial !important;
+	-webkit-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+a{
+	text-decoration:none;
+}
+h1, h2, h3, h4, h5, h6{
+	font-weight: normal;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+p{
+	line-height:150%;
+	margin-bottom:2em;
+}
+.fix{
+	overflow:hidden;
+}
